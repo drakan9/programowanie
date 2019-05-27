@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdds
+=======
+sdds gfddggdgd
+>>>>>>> costam.txt
